@@ -1,0 +1,11 @@
+date,description,category,amount,type
+2026-09-01,Monthly Salary,Income,50000,income
+2026-09-02,Rent,Housing,15000,expense
+2026-09-03,Groceries,Food,4200,expense
+2026-09-05,Electricity Bill,Utilities,1800,expense
+2026-09-07,Netflix,Entertainment,649,expense
+2026-09-09,Uber Rides,Transport,2300,expense
+2026-09-12,Restaurant Dinner,Food,1800,expense
+2026-09-15,Online Shopping,Shopping,5500,expense
+2026-09-18,Gym Membership,Health,1500,expense
+2026-09-22,Mobile Recharge,Utilities,599,expense
